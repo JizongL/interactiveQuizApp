@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Responsive Grid Challenge</title>
+
+  <!-- Responsive viewport tag, tells small screens that it's responsive -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="grid.css" />
+  <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+    <header  role = 'navigation' class='navigation'>
+        <div class="row">
+            <div class="quiz-title-position col-6">
+              <span id = 'quiz-title'>Quiz App<span>
+            </div>
+            <div class="quiz-status-position col-6">
+              <ul class = "quiz-status">
+                <li id = 'question-number'>0 of 10 questions</li>
+                <li id = 'quiz-score'>0 of 100 scores</li>
+              </ul>
+            </div>
+        </div>
+    </header>
+  <main role="main">
+ 
+
+    <div class="row">
+      <div class="col-12">
+            <div class="question-field">questions position</div>
+          </div>
+      </div>
+	
+	
+
+    <div class="row">
+	<div class="col-6">
+        <div class="answer-field">
+            <form id="js-enter-meal-details-form">
+                <fieldset>
+                    <label class="answer-option">
+                    <input type="radio"  name="answer" required>
+                    Answer A
+                  </label>
+                    <label class="answer-option">                      
+                    <input type="radio"  name="answer" required> 
+                    Answer B
+                  </label>
+                    <label class="answer-option">
+                    <input type="radio"  name="answer" required>
+                      Answer C
+                  </label>
+                  <label class="answer-option">
+                  <input type="radio"  name="answer" required>
+                      Answer D
+                  </label>
+                <button type="submit" class="submitButton">Submit</button>
+                  </fieldset>
+               
+        </div>
+      </div>
+      <div class="col-6">
+          <div class="img-field">
+            <img src = "https://previews.123rf.com/images/maxuser/maxuser1707/maxuser170700012/82041176-abstract-black-and-white-bitcoin-sign-built-as-an-array-of-transactions-in-blockchain-conceptual-3d-.jpg">
+            </div>
+        </div>
+        
+    
+    </div>
+   
+
+
+
+
+  </main>
+  <footer class='row'>
+      <div class="col-12">
+        <ul class = "previous-next">
+          <li>Prev</li>
+          <li>Next</li>
+        </ul>
+        
+      <div class="col-12">
+  </footer>
+</body>
+</html>

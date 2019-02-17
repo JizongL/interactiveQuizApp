@@ -1,0 +1,117 @@
+main {
+  padding-top: 10px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.quiz-title-position{
+  text-align: left;
+  margin-top:10px;
+  font-size:30px;
+}
+
+.quiz-status-position{
+  text-align: right;
+  float:left;
+  font-size:20px;
+}
+
+header::before,
+header::after {
+    display: table;
+    content: '';
+}
+header::after {
+    clear: both;
+}
+
+fieldset{
+  border: none;
+}
+
+
+.quiz-status{
+ text-align: right;
+}
+.quiz-status li{
+  text-align: right;
+  display:inline-block;
+  margin-left:20px;
+}
+
+
+
+input[type=radio] {
+  flex: 0 0 auto;
+  margin-right: 10px;
+}
+
+.question-field{
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+  border:1px solid lightgray;
+  font-size:40px;
+}
+.answer-option{
+  display:block;
+  border:1px solid lightgray;
+  text-align: left;
+  margin:10px;
+  font-size:30px;
+}
+
+.answer-field {
+  height: 400px;
+  text-align: center;
+  padding-top: 30px;
+  border:1px solid lightgray;
+}
+
+.img-field{
+  height: 400px;
+  text-align: center;
+  padding-top: 30px;
+  border:1px solid lightgray;
+ 
+}
+
+img{
+  height:300px;
+}
+
+.submitButton{
+  font-size: 30px;
+  float:right;
+  margin-right: 10px;
+  margin-top:50px;
+}
+
+
+.previous-next{
+ float:right; 
+}
+.previous-next li{
+  display:inline-block;
+  margin-left:20px;
+  font-size: 30px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}

@@ -1,0 +1,73 @@
+
+What is the name of the research paper that brought Bitcoin to the world?
+Black Paper
+White Paper
+Yellow Paper
+Green Paper
+Correct! Wrong!
+
+What is a blockchain?
+A distributed ledger on a peer to peer network
+A type of cryptocurrency
+An exchange
+A centralized ledger
+Correct! Wrong!
+
+Where can you buy cryptocurrency?
+A private transaction
+An exchange
+A bitcoin ATM
+All of the above
+Correct! Wrong!
+
+What is a dApp?
+A type of Cryptocurrency
+A condiment
+A type of blockchain
+A decentralized application
+Correct! Wrong!
+
+
+Who created Bitcoin?
+Satoshi Nakamoto
+Samsung
+John Mcafee
+China
+Correct! Wrong!
+
+
+What does P2P stand for?
+Password to Password
+Peer to Peer
+Product to Product
+Private Key to Public Key
+Correct! Wrong!
+
+
+Where do you store your cryptocurrency?
+Bank account
+Floppy Disk
+Wallet
+In your pocket
+Correct! Wrong!
+
+Where is the LEAST SAFE place to keep your cryptocurrency?
+In your pocket
+On an exchange
+On a hot wallet
+At your work desk
+Correct! Wrong!
+
+What is a miner?
+A type of blockchain
+An algorithm that predicts the next part of the chain
+A person doing calculations to verify a transaction
+Computers that validate and process blockchain transactions
+Correct! Wrong!
+
+What is the term for when a blockchain splits?
+A fork
+A merger
+A sidechain
+A division
+Correct! Wrong!

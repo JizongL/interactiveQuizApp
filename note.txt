@@ -1,0 +1,18 @@
+
+update bar
+questions x of y 
+your score: 0 of 110 
+% finished bar 
+
+
+alert:
+you msut complete the questions before submitting
+
+correct prompt message 
+incorrect prompt 
+
+
+
+additional 
+sound (correct and incorrect)
+
